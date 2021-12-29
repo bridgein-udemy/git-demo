@@ -5,7 +5,7 @@
 </head>
 <body>
 <br>
-version 1.0
+version 2.0
 </br>
 </body>
 </html>
