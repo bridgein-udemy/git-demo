@@ -6,7 +6,8 @@
 <body>
     <?php
     echo "first php";
-    echo "merge sample"
+    echo "merge sample";
+    echo "develop modify"
     ?>
 </body>
 </html>
